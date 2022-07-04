@@ -1,6 +1,8 @@
 ### Hi 👋 I am Ekene Akubue
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+<h2>BROWSERS</h2>
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

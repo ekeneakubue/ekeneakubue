@@ -1,4 +1,4 @@
-<div class='text-align-center'>## Hi 👋 I am Ekene Akubue</div>
+## Hi 👋 I am Ekene Akubue
 
 
 ##### LETS CONNECT

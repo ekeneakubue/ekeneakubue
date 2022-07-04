@@ -1,7 +1,7 @@
 ### Hi 👋 I am Ekene Akubue
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
-Visitor Badge can count visitors for your README.md, Issues, PRs in GitHub in just one line markdown code. Let’s update the page.id with the recommended way ${your.username}.${your.repo.id} and add the following line to your README file.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 

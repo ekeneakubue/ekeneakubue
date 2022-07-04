@@ -1,4 +1,4 @@
-<center>## Hi 👋 I am Ekene Akubue
+## Hi 👋 I am Ekene Akubue
 
 
 ##### LETS CONNECT
@@ -19,7 +19,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-</center>
+
 
 
 <!--

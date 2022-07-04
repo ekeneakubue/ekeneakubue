@@ -1,12 +1,12 @@
-<h1>Hi 👋 I am Ekene Akubue</h1>
+## Hi 👋 I am Ekene Akubue
 
 
-<h4>LETS CONNECT</h4>
+##### LETS CONNECT
 
 
 
-<h4>PROGRAMMING LANGUAGES</h4>
-
+##### PROGRAMMING LANGUAGES
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
 <h4>FRAMEWORKS & LIBRARIES</h4>
